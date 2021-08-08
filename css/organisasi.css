@@ -1,0 +1,15 @@
+.organisasi {
+    margin: 8px 0;
+}
+
+.organisasi h1 {
+    font-size: 24px;
+    text-transform: capitalize;
+    border-bottom: 2px solid black;
+    margin-bottom: 8px;
+}
+
+.organisasi ul li {
+    margin-bottom: 4px;
+    margin-left: 6%;
+}
