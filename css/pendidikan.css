@@ -1,0 +1,19 @@
+.pendidikan {
+    margin: 8px 0;
+}
+
+.pendidikan h1 {
+    font-size: 24px;
+    text-transform: capitalize;
+    border-bottom: 2px solid black;
+    margin-bottom: 8px;
+}
+
+.pendidikan b {
+    font-size: 18px;
+}
+
+.pendidikan ul li {
+    margin-bottom: 4px;
+    margin-left: 6%;
+}

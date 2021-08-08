@@ -1,0 +1,24 @@
+.profil{
+    display: flex;
+    margin-top: 15%;
+    justify-content: center;
+}
+
+.profil-photo img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.profil-data{
+    margin-top: 4%;
+    margin-left: 6%;
+}
+.profil-data h1{
+    font-size: 38px;
+}
+.profil-data ul li{
+    margin-top: 8px;
+    list-style: none;
+}
+
