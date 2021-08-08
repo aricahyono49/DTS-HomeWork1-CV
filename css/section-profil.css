@@ -1,11 +1,13 @@
 .profil{
     display: flex;
-    margin-top: 70px;
+    margin-top: 15%;
     justify-content: center;
 }
 
 .profil-photo img{
     border-radius: 100%;
+    width: 200px;
+    height: 200px;
 }
 
 .profil-data{
