@@ -1,0 +1,16 @@
+#navigation{
+    background-color: #FFB740;
+    padding: 12px;
+    text-align: right;
+    font-weight: 700;
+    font-family: monospace;
+    position: fixed;
+    top: 0;
+    width: 60%;
+}
+.navigation-item {
+    padding: 0 16px;
+    font-size: 18px;
+    list-style: none;
+    display: inline;
+}
